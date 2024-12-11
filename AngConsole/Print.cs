@@ -8,8 +8,7 @@ namespace AngConsole
 {
     public class Print
     {
-        // Abc
-        // 123
         // Sua tu github
+        // Them tu vscode
     }
 }
